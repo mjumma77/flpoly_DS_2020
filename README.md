@@ -1,5 +1,5 @@
-# Data Science Course at FLPolyU 
+# Data Science Course 
 
-## Week 2: `git` practice
+## `git` practice
 
-Intro to DS @ FLPolyU 2020
+Intro to DS practice with version control
